@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(236, 217, 247);
+}
+.Edit{
+    margin-right: 5px;
+    font-weight: bolder;
+    background-color: rgb(196, 193, 193);
+}
+.Editing{
+    padding: 3px 6px;
+    margin-right: 5px;
+    font-weight: bolder;
+    font-size:large;
+    background-color: rgb(196, 193, 193);
+    height: 31px;   
+    width: 44.4px;
+     background-color: greenyellow;
+}
